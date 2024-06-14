@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.mvn",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\resources",
+    "\\src\\main\\resources\\static",
+    "\\src\\main\\resources\\templates",
+    "\\src\\test"
+  ],
+  "PreviewInSolutionExplorer": false
+}
